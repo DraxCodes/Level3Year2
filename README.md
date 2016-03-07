@@ -1,11 +1,6 @@
 # IT BTEC Level 3 Year 2
 This is a backup for my college work, nothing more.
 
-## TODO (Assignment 8.2)
-* Edit Payment Page Design ( Add IFRAME for payment auth)
-* Create User Login Page
-* Add more advertisment options
-
 ## TODO (Assignment 5.2)
 * Get Screenshots from Aydin
 * Create a backup routine
