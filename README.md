@@ -29,4 +29,8 @@ This is a backup for my college work, nothing more.
 * Get Assignment Sheets
 * Get other practical info from Andy/Josh
 * Write up Practical in own words
+<<<<<<< HEAD
 * Whatever else needs doing
+=======
+* Whatever else needs doing
+>>>>>>> 321e65e1de250cf69455726f1d274d9197eccef5
