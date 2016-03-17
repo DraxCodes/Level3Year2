@@ -2,15 +2,8 @@
 This is a backup for my college work, nothing more.
 
 ## TODO (Assignment 5.2)
-* Get Screenshots from Aydin
-* Create a backup routine
-* Install Antivirus
-* Design Login Script
-* Perform Virus Scan (every day)
-* Screenshot 
-* - Monitor Server Performance
+* - Add the following to Logbook ::
 * - Monitor Network Performance
-* - Use tools from moodle
 * - Event Viewer
 
 ## TODO (Control Systems)
