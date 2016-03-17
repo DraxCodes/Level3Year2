@@ -15,7 +15,6 @@ This is a backup for my college work, nothing more.
 
 ## TODO (Assignment 12/13 Dwains)
 * Get Assignment Sheets
-* Get other practical info from Andy/Josh
 * Write up Practical in own words
 <<<<<<< HEAD
 * Whatever else needs doing
