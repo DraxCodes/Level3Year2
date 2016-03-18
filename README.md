@@ -1,11 +1,6 @@
 # IT BTEC Level 3 Year 2
 This is a backup for my college work, nothing more.
 
-## TODO (Assignment 5.2)
-* - Add the following to Logbook ::
-* - Monitor Network Performance
-* - Event Viewer
-
 ## TODO (Control Systems)
 * Program Robot (Use Colour sensors to sense lines method)
 * Write up about robot
@@ -13,10 +8,20 @@ This is a backup for my college work, nothing more.
 * Layout Plan
 * Write report on what could be improved
 
-## TODO (Assignment 12/13 Dwains)
-* Get Assignment Sheets
-* Write up Practical in own words
-<<<<<<< HEAD
+## TODO (Unit 17 Project Planning)
+* Produce a project specification that identifies the following
+* Business Case Requirments 
+* Stakeholder in the project (Me/Dustin)
+* Specific Objectives of the project
+* Benefits and Success Factors
+* Project Boundries and/or Scope
+* Constraints
+* Any Issues
+* Identify any risks to the project and assess the impact, to include any actions taken to reduce the effect related to the following:
+* The Business
+* Use of IT
+* Implementation
+
 * Whatever else needs doing
 =======
 * Whatever else needs doing
